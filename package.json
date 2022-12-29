@@ -2,7 +2,7 @@
   "name": "login-form",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https:/2115-27.github.io/2115-27",
+  "homepage": "https:/2115-27.github.io/react-login",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
