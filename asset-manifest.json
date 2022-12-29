@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/2115-27.github.io/2115-27/static/css/main.3d9ac6df.chunk.css",
+    "main.js": "/2115-27.github.io/2115-27/static/js/main.62f1cc30.chunk.js",
+    "main.js.map": "/2115-27.github.io/2115-27/static/js/main.62f1cc30.chunk.js.map",
+    "runtime-main.js": "/2115-27.github.io/2115-27/static/js/runtime-main.7f73bea9.js",
+    "runtime-main.js.map": "/2115-27.github.io/2115-27/static/js/runtime-main.7f73bea9.js.map",
+    "static/css/2.47012977.chunk.css": "/2115-27.github.io/2115-27/static/css/2.47012977.chunk.css",
+    "static/js/2.a08b2132.chunk.js": "/2115-27.github.io/2115-27/static/js/2.a08b2132.chunk.js",
+    "static/js/2.a08b2132.chunk.js.map": "/2115-27.github.io/2115-27/static/js/2.a08b2132.chunk.js.map",
+    "index.html": "/2115-27.github.io/2115-27/index.html",
+    "static/css/2.47012977.chunk.css.map": "/2115-27.github.io/2115-27/static/css/2.47012977.chunk.css.map",
+    "static/css/main.3d9ac6df.chunk.css.map": "/2115-27.github.io/2115-27/static/css/main.3d9ac6df.chunk.css.map",
+    "static/js/2.a08b2132.chunk.js.LICENSE.txt": "/2115-27.github.io/2115-27/static/js/2.a08b2132.chunk.js.LICENSE.txt",
+    "static/media/SignUp.module.css": "/2115-27.github.io/2115-27/static/media/tik.02de272a.svg",
+    "static/media/email.0accdc73.svg": "/2115-27.github.io/2115-27/static/media/email.0accdc73.svg",
+    "static/media/password.b5ad9e0e.svg": "/2115-27.github.io/2115-27/static/media/password.b5ad9e0e.svg",
+    "static/media/user.f47683c7.svg": "/2115-27.github.io/2115-27/static/media/user.f47683c7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f73bea9.js",
+    "static/css/2.47012977.chunk.css",
+    "static/js/2.a08b2132.chunk.js",
+    "static/css/main.3d9ac6df.chunk.css",
+    "static/js/main.62f1cc30.chunk.js"
+  ]
+}
